@@ -42,3 +42,16 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 - Synchroniser les commit avec Github
   - constater que le fichier `/public/video/a-ignorer.txt` n'a pas été publié surGithub
 
+# Conflits
+
+## Conflit simple
+
+- [ ] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "edit depuis Github", comme message de commit.
+- [ ] Cochez cette case depuis VSCode (le dépot sur votre PC). Faire un commit "edit local"
+- Demandez à VSCode de synchroniser.
+
+# Branches
+
+
+# "Ammend", Réordonner et "squash" les commits.
+
