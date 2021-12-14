@@ -120,6 +120,27 @@ Exemple :
 
 # Remonter dans le temps pour trouver un "bug"
 
+- [X] décochez cette case et commit : "le bug"
+- _message à modifier plus tard_
+-
+-
+-
+-
+- [ ] cochez et commit : "aprés bug 1"
+- [ ] cochez et commit : "aprés bug 2"
+- [ ] cochez et commit : "aprés bug 3"
+
+- Dans le terminal répeter la commande :
+  - `git checkout head~1`
+  - Jusqu'à ce que la case du "bug" soit de nouveau cochée (c-à-d remonter jusqu'avant le commit du bug)
+  - Ne jamais changer le code quand on utilise "checkout" ainsi.
+- Faire une branche "correction-bug", pour pouvoir changer et tester le code sans risque.
+  - Remplacer le _message à modifier_ plus haut par : **Bug corrigé**
+  - Faire un commit : "Bug corrigé"
+  - En vrais, on testerait maintenant si notre code est "sans bug".
+- Faire un [cherry pick] de ce commit vers la branche "master".
+
+[cherry pick]: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/cherry-picking-a-commit
 
 
 # Mettre des changements de coté (_stash_)
