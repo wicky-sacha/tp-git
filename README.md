@@ -87,6 +87,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
   - Sélectionner la branche _"????/test-branche"_
 - Regardez la liste des commits
   - Vous voyez les commits fait dans la branche !
+    - Et plus haut dans ce document les checkbox corespondantes son cochées
 - Poussez les commits vers Github
 
 # "Ammend", Réordonner et "squash" les commits.
