@@ -121,14 +121,14 @@ Exemple :
 # Remonter dans le temps pour trouver un "bug"
 
 - [X] décochez cette case et commit : "le bug"
-- **Bug corrigé** _message à modifier plus tard_
+- _message à modifier plus tard_
 -
 -
 -
 -
-- [X] cochez et commit : "aprés bug 1"
-- [X] cochez et commit : "aprés bug 2"
-- [X] cochez et commit : "aprés bug 3"
+- [ ] cochez et commit : "aprés bug 1"
+- [ ] cochez et commit : "aprés bug 2"
+- [ ] cochez et commit : "aprés bug 3"
 
 - Dans le terminal répeter la commande :
   - `git checkout head~1`
@@ -139,6 +139,7 @@ Exemple :
   - Faire un commit : "Bug corrigé"
   - En vrais, on testerait maintenant si notre code est "sans bug".
 - Faire un [cherry pick] de ce commit vers la branche "master".
+  - Résoudre le conflit en prenant "incoming change" (le bug corrigé) dans VSCode.
 
 [cherry pick]: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/cherry-picking-a-commit
 
