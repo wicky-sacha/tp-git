@@ -56,6 +56,33 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 # Branches
 
+## Faire une branche
+
+- Faire une branche en cliquant en bas-à-gauche sur VSCode ; la nommer (en adaptant) _"votre-pseudo/test-branche"_
+  - VSCode vous place automatiquement dans la nouvelle branche.
+- [ ] Cochez et commit : "1re commit dans branche"
+- [ ] Puis cochez et commit "2nd commit dans branche"
+- Regardez la liste des commits dans le volet Chronologie en bas de l'exlporateur de VSCode
+
+## Changer de branche
+
+- Retourner à la branche _"master"_ avec le bouton en bas à droite
+  - Regardez les deux checkboxs audessu, elle ne son pas cochées (**important:** les laissez ainsi) .
+  - [ ] Cochez et commit : "commit dans master à rebaser dans branche"
+- Regardez la liste des commits
+  - Vous ne voyez pas les commits fait dans la branche
+- Retourner à la branche  _"????/test-branche"_
+
+## "Rebaser" une branche
+
+
+
+## "Merger" une branche
+
 
 # "Ammend", Réordonner et "squash" les commits.
 
+
+# Archive d'un dépôt
+
+Archive d'un dépôt local : [git archive](https://git-scm.com/docs/git-archive).
