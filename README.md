@@ -92,7 +92,40 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 # "Ammend", Réordonner et "squash" les commits.
 
+Pour ces étapes on va utiliser Github Destop.
+
+- Lancer Github Desktop et ouvrir la copie locale de ce dépôt avec Github Desktop en le faisant glisser sur son panneau d'accueil.
+ - Sélectionner la branche _"????/test-branche"_
+  - On peut modifier l'hisorique des commits tant qu'ils n'ont pas été "poussés" vers le dépôt central (_origin_).
+  - Modifier l'historique des commits déjà publier peut causser de gros problémes. Donc faire ses traveaux dans une branche est plus sûr.
+
+Documentation "[amend]" et autres manipulations...
+
+[amend]: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/amending-a-commit "GitHub Desktop/Amending a commit"
+
+## Consignes
+
+Décrire ce que vous faite en éditant ce document sur le modèle des indications que j'ai donnée avant.
+
+Exemple :
+
+## A vous de faire
+
+- Plusieurs commit
+- "amend" du derniers commit
+- Réordonnez des commits
+- "squash" des commits ensembles
+
+**Editez ici**
+
+## Preuve que vous avez bien fait le travail demandé :
+
+- Dans le terminal :
+  - `git reflog show > reflog.txt`
 
 # Archive d'un dépôt
 
 Archive d'un dépôt local : [git archive](https://git-scm.com/docs/git-archive).
+
+- Faire l'archive de ce dépôt et la rendre sur Mooodle.
+  - Supprimez l'archive apres l'avoir rendue (inutile de la garder sur votre ordinateur).
