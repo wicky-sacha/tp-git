@@ -1,8 +1,8 @@
 # Suivre les consignes de ce document
 
-Faire les nodifications indiquées directement dans ce même document en suivant les indications.
+Faire les modifications indiquées directement dans ce même document en suivant les indications.
 
-## Faire un fokr de ce dépôt
+## Faire un fork de ce dépôt
 
 Depuis la page Github de ce dépôt, faire un fork de ce même dépôt.
 
@@ -45,7 +45,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 # Conflits
 
 - [ ] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "edit depuis Github", comme message de commit.
-- [ ] Cochez cette case depuis VSCode (le dépot sur votre PC). Faire un commit "edit local"
+- [ ] Cochez cette case depuis VSCode (le dépôt sur votre PC). Faire un commit "edit local"
 - Demandez à VSCode de synchroniser.
   - Cela doit echouer.
   - Faire `Shift+CMD+P` Git: Pull (rebase)
@@ -97,7 +97,7 @@ Pour ces étapes on va utiliser Github Destop.
 - Lancer Github Desktop et ouvrir la copie locale de ce dépôt avec Github Desktop en le faisant glisser sur son panneau d'accueil.
  - Sélectionner la branche _"????/test-branche"_
   - On peut modifier l'hisorique des commits tant qu'ils n'ont pas été "poussés" vers le dépôt central (_origin_).
-  - Modifier l'historique des commits déjà publier peut causser de gros problémes. Donc faire ses traveaux dans une branche est plus sûr.
+  - Modifier l'historique des commits déjà publiés peut causser de gros problémes. Donc faire ses traveaux dans une branche est plus sûr.
 
 Documentation "[amend]" et autres manipulations...
 
@@ -105,13 +105,13 @@ Documentation "[amend]" et autres manipulations...
 
 ## Consignes
 
-Décrire ce que vous faite en éditant ce document sur le modèle des indications que j'ai données avant.
+Décrire ce que vous faites en éditant ce document sur le modèle des indications que j'ai données avant.
 
 Exemple :
 
 ## A vous de faire
 
-- Plusieurs commit
+- Plusieurs commits
 - "amend" du derniers commit
 - Réordonnez des commits
 - "squash" des commits ensembles
@@ -126,9 +126,9 @@ Exemple :
 -
 -
 -
-- [ ] cochez et commit : "aprés bug 1"
-- [ ] cochez et commit : "aprés bug 2"
-- [ ] cochez et commit : "aprés bug 3"
+- [ ] cochez et commit : "après bug 1"
+- [ ] cochez et commit : "après bug 2"
+- [ ] cochez et commit : "après bug 3"
 
 - Dans le terminal répeter la commande :
   - `git checkout head~1`
@@ -146,7 +146,7 @@ Exemple :
 
 # Mettre des changements de coté (_stash_)
 
-Certaines actions ne peuvent être faite si il existe des changements "non commités".
+Certaines actions ne peuvent être faite s'il existe des changements "non commités".
 
 - [ ] cochez cette case **sans faire de commit !**
 - Essayez de changez de branche :
