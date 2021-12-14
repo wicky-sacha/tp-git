@@ -126,7 +126,7 @@ Exemple :
 -
 -
 -
-- [ ] cochez et commit : "aprés bug 1"
+- [X] cochez et commit : "aprés bug 1"
 - [ ] cochez et commit : "aprés bug 2"
 - [ ] cochez et commit : "aprés bug 3"
 
