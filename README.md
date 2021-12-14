@@ -75,10 +75,14 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 ## "Rebaser" une branche
 
-
+- Utiliser la commande `Shift+CMD+P` _Git rebaser la branche"
+  - Choisir la branche "Master"
+  - Accpeter la version courante dans l'éditeur
+  - Valider la resolution de conflit dans le volet "Changements rebase" du panneau "Contrôle de code source"
 
 ## "Merger" une branche
 
+- Retourner à la branche "Master"
 
 # "Ammend", Réordonner et "squash" les commits.
 
