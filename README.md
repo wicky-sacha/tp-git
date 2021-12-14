@@ -8,7 +8,7 @@ Depuis la page Github de ce dépôt, faire un fork de ce même dépôt.
 
 Puis cloner votre fork sur votre PC (avec VSCode).
 
-- [X] Chochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
+- [ ] Chochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
 - Faire un commit avec le message "test commit et push"
 - Faire un push du commit sur Github.
 
@@ -31,21 +31,21 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
     - [X] windows
     - [X] macos
     - [X] visualstudiocode
-- [X] cocher et faire commit "ajout .gitignore"
+- [ ] cocher et faire commit "ajout .gitignore"
 
 ## ajout manuel à `.gitignore`
 
 - Faire un fichier `/public/video/a-ignorer.txt`
 - Ajouter en fin de fichier `.gitignore` la ligne suivante :
   - `/public/video`
-- [X] cocher et commit "ajout dossier à .gitignore"
+- [ ] cocher et commit "ajout dossier à .gitignore"
 - Synchroniser les commit avec Github
   - constater que le fichier `/public/video/a-ignorer.txt` n'a pas été publié surGithub
 
 # Conflits
 
-- [X] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "edit depuis Github", comme message de commit.
-- [X] Cochez cette case depuis VSCode (le dépot sur votre PC). Faire un commit "edit local"
+- [ ] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "edit depuis Github", comme message de commit.
+- [ ] Cochez cette case depuis VSCode (le dépot sur votre PC). Faire un commit "edit local"
 - Demandez à VSCode de synchroniser.
   - Cela doit echouer.
   - Faire `Shift+CMD+P` Git: Pull (rebase)
@@ -60,15 +60,15 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 - Faire une branche en cliquant en bas-à-gauche sur VSCode ; la nommer (en adaptant) _"votre-pseudo/test-branche"_
   - VSCode vous place automatiquement dans la nouvelle branche.
-- [X] Cochez et commit : "1re commit dans branche"
-- [X] Puis cochez et commit "2nd commit dans branche"
+- [ ] Cochez et commit : "1re commit dans branche"
+- [ ] Puis cochez et commit "2nd commit dans branche"
 - Regardez la liste des commits dans le volet Chronologie en bas de l'exlporateur de VSCode
 
 ## Changer de branche
 
 - Retourner à la branche _"master"_ avec le bouton en bas à droite
   - Regardez les deux checkboxs audessu, elle ne son pas cochées (**important:** les laissez ainsi) .
-  - [X] Cochez et commit : "commit dans master à rebaser dans branche"
+  - [ ] Cochez et commit : "commit dans master à rebaser dans branche"
 - Regardez la liste des commits
   - Vous ne voyez pas les commits fait dans la branche
 - Retourner à la branche  _"????/test-branche"_
@@ -122,6 +122,7 @@ Exemple :
 
 - Dans le terminal :
   - `git reflog show > reflog.txt`
+- Faire un commit 'ajout copie du reflog"
 
 # Archive d'un dépôt
 
