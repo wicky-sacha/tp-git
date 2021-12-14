@@ -40,7 +40,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
   - `/public/video`
 - [ ] cocher et commit "ajout dossier à .gitignore"
 - Synchroniser les commit avec Github
-  - constater que le fichier `/public/video/a-ignorer.txt` n'a pas été publié surGithub
+  - constater que le fichier `/public/video/a-ignorer.txt` n'a pas été publié sur Github
 
 # Conflits
 
