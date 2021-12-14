@@ -169,7 +169,7 @@ Vous devez retrouvez votre changement non commité : faire le commit "test stash
 
 Noter ici l'URL de votre fork : 
 https://github.com/?????/tp-git
-
+ 
 # Archive d'un dépôt
 
 Archive d'un dépôt local : [git archive](https://git-scm.com/docs/git-archive).
