@@ -127,7 +127,7 @@ Exemple :
 -
 -
 - [X] cochez et commit : "aprés bug 1"
-- [ ] cochez et commit : "aprés bug 2"
+- [X] cochez et commit : "aprés bug 2"
 - [ ] cochez et commit : "aprés bug 3"
 
 - Dans le terminal répeter la commande :
