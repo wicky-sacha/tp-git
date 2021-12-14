@@ -105,7 +105,7 @@ Documentation "[amend]" et autres manipulations...
 
 ## Consignes
 
-Décrire ce que vous faite en éditant ce document sur le modèle des indications que j'ai donnée avant.
+Décrire ce que vous faite en éditant ce document sur le modèle des indications que j'ai données avant.
 
 Exemple :
 
@@ -118,7 +118,28 @@ Exemple :
 
 **Editez ici**
 
-## Preuve que vous avez bien fait le travail demandé :
+# Remonter dans le temps pour trouver un "bug"
+
+
+
+# Mettre des changements de coté (_stash_)
+
+Certaines actions ne peuvent être faite si il existe des changements "non commités".
+
+- [ ] cochez cette case **sans faire de commit !**
+- Essayez de changez de branche :
+  - Vous ne pouvez pas
+  - Choisir _"Faire un stash et extraire"_
+  - **Ou bien** dans le terminal : `git stash`
+    - Suivit du changement de branche
+  - [ ] cochez et commit "Dans branche"
+- Retourner à la branche "master"
+- Faire `Shift+CMD+P` _Git: Pop latest stash_
+  - *Ou bien* dans le terminal : `git stash pop`
+
+Vous devez retrouvez votre changement non commité : faire le commit "test stash"
+
+# Preuve que vous avez bien fait le travail demandé :
 
 - Dans le terminal :
   - `git reflog show > reflog.txt`
