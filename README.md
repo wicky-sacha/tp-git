@@ -129,4 +129,5 @@ Exemple :
 Archive d'un dépôt local : [git archive](https://git-scm.com/docs/git-archive).
 
 - Faire l'archive de ce dépôt et la rendre sur Mooodle.
+  - `git archive -o tp-git.zip HEAD`
   - Supprimez l'archive apres l'avoir rendue (inutile de la garder sur votre ordinateur).
