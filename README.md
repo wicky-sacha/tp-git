@@ -60,7 +60,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 - Faire une branche en cliquant en bas-à-gauche sur VSCode ; la nommer (en adaptant) _"votre-pseudo/test-branche"_
   - VSCode vous place automatiquement dans la nouvelle branche.
-- [ ] Cochez et commit : "1re commit dans branche"
+- [X] Cochez et commit : "1re commit dans branche"
 - [ ] Puis cochez et commit "2nd commit dans branche"
 - Regardez la liste des commits dans le volet Chronologie en bas de l'exlporateur de VSCode
 
