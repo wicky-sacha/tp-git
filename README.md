@@ -9,7 +9,7 @@ Depuis la page Github de ce dépôt, faire un fork de ce même dépôt.
 Puis cloner votre fork sur votre PC (avec VSCode).
 - `Shift+CMD+P` _Git Clone_ Puis _Depuis Github_
 
-- [ ] Chochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
+- [X] Chochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
 - Faire un commit avec le message "test commit et push"
 - Faire un push du commit sur Github.
 
