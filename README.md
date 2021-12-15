@@ -32,7 +32,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
     - [X] windows
     - [X] macos
     - [X] visualstudiocode
-- [ ] cocher et faire commit "ajout .gitignore"
+- [X] cocher et faire commit "ajout .gitignore"
 
 ## ajout manuel à `.gitignore`
 
