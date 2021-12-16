@@ -1,0 +1,58 @@
+3ba8a2b HEAD@{0}: checkout: moving from wicky-sacha/test-branche to master
+25ff329 HEAD@{1}: commit: Dans branche
+a657834 HEAD@{2}: checkout: moving from master to wicky-sacha/test-branche
+3ba8a2b HEAD@{3}: checkout: moving from correction-bug to master
+229b6e6 HEAD@{4}: commit (cherry-pick): le bug corrigé
+50c1dc8 HEAD@{5}: commit: Bug corrigé
+a657834 HEAD@{6}: checkout: moving from wicky-sacha/test-branche to correction-bug
+a657834 HEAD@{7}: checkout: moving from 12b8e8ea17246e3589cfc28d1e540e67bd09d59e to wicky-sacha/test-branche
+12b8e8e HEAD@{8}: checkout: moving from b792fa3f3bacb84f2b4f1999e79eef10031e7a53 to head~1
+b792fa3 HEAD@{9}: checkout: moving from eca4b7f47357e22edd3d9876bbb9be23437f5a53 to head~1
+eca4b7f HEAD@{10}: checkout: moving from 5fff52ecc0318f48ed1300439e432e28f6dbf5b7 to head~1
+5fff52e HEAD@{11}: checkout: moving from master to head~1
+3ba8a2b HEAD@{12}: commit: après bug 3
+5fff52e HEAD@{13}: commit: après bug 2
+eca4b7f HEAD@{14}: commit: après bug 1
+b792fa3 HEAD@{15}: commit: le bug
+12b8e8e HEAD@{16}: merge wicky-sacha/test-branche: Merge made by the 'recursive' strategy.
+ddf6587 HEAD@{17}: checkout: moving from wicky-sacha/test-branche to master
+a657834 HEAD@{18}: pull --tags -r origin wicky-sacha/test-branche (finish): returning to refs/heads/wicky-sacha/test-branche
+a657834 HEAD@{19}: pull --tags -r origin wicky-sacha/test-branche (start): checkout a6578349e710f5034018fe497d43dfc4e6b07953
+1ab4ba8 HEAD@{20}: rebase (finish): returning to refs/heads/wicky-sacha/test-branche
+1ab4ba8 HEAD@{21}: rebase (pick): 2nd commit dans branche
+14de34e HEAD@{22}: rebase (pick): 1re commit dans branche
+ddf6587 HEAD@{23}: rebase (start): checkout master
+a657834 HEAD@{24}: pull --tags -r origin wicky-sacha/test-branche (finish): returning to refs/heads/wicky-sacha/test-branche
+a657834 HEAD@{25}: pull --tags -r origin wicky-sacha/test-branche (pick): commit dans master à rebaser dans branche
+aa51309 HEAD@{26}: pull --tags -r origin wicky-sacha/test-branche (start): checkout aa51309a51691f2b5ac418a0f25eacd1090f5d6f
+56d2666 HEAD@{27}: rebase (finish): returning to refs/heads/wicky-sacha/test-branche
+56d2666 HEAD@{28}: rebase (pick): 2nd commit dans branche
+569c59d HEAD@{29}: rebase (pick): 1re commit dans branche
+ddf6587 HEAD@{30}: rebase (start): checkout master
+aa51309 HEAD@{31}: checkout: moving from master to wicky-sacha/test-branche
+ddf6587 HEAD@{32}: commit: commit dans master à rebaser dans branche
+12f620b HEAD@{33}: checkout: moving from wicky-sacha/test-branche to master
+aa51309 HEAD@{34}: commit: 2nd commit dans branche
+68f302c HEAD@{35}: commit: 1re commit dans branche
+12f620b HEAD@{36}: checkout: moving from master to wicky-sacha/test-branche
+12f620b HEAD@{37}: reset: moving to 12f620b3b93d701b29f3d0079f5173e9483b6e24
+ed72a52 HEAD@{38}: rebase (continue) (finish): returning to refs/heads/master
+ed72a52 HEAD@{39}: rebase (continue) (pick): Revert "edit local"
+12f620b HEAD@{40}: rebase (continue): edit local
+30700e1 HEAD@{41}: pull --tags -r origin master (start): checkout 30700e1125f9ac7fbc4eaadb1f10d0ea7125466f
+f064e8e HEAD@{42}: revert: Revert "edit local"
+4ba3610 HEAD@{43}: checkout: moving from 2ff9edffbe5179e115b59569633b0698ec3c9d4e to master
+2ff9edf HEAD@{44}: checkout: moving from 4ba3610daf9450c7f2ea268ae52889ccd0f0a60c to 2ff9edffbe5179e115b59569633b0698ec3c9d4e
+4ba3610 HEAD@{45}: reset: moving to master
+2ff9edf HEAD@{46}: checkout: moving from master to 2ff9edffbe5179e115b59569633b0698ec3c9d4e
+4ba3610 HEAD@{47}: checkout: moving from 2ff9edffbe5179e115b59569633b0698ec3c9d4e to master
+2ff9edf HEAD@{48}: checkout: moving from master to 2ff9edffbe5179e115b59569633b0698ec3c9d4e
+4ba3610 HEAD@{49}: rebase (abort): updating HEAD
+30700e1 HEAD@{50}: pull --tags -r origin master (start): checkout 30700e1125f9ac7fbc4eaadb1f10d0ea7125466f
+4ba3610 HEAD@{51}: commit: edit local
+2ff9edf HEAD@{52}: commit: edit local
+460e926 HEAD@{53}: commit: ajout dossier à .gitignore
+591665b HEAD@{54}: commit: ajout dossier à .gitignore
+f0b8636 HEAD@{55}: commit: ajout .gitignore
+7e53ccf HEAD@{56}: commit: test commit et push
+4942c15 HEAD@{57}: clone: from https://github.com/wicky-sacha/tp-git.git
