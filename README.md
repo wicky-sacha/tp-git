@@ -69,7 +69,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 - Retourner à la branche _"master"_ avec le bouton en bas à droite
   - Regardez les deux checkboxs audessu, elle ne son pas cochées (**important:** les laissez ainsi) .
-  - [ ] Cochez et commit : "commit dans master à rebaser dans branche"
+  - [X] Cochez et commit : "commit dans master à rebaser dans branche"
 - Regardez la liste des commits
   - Vous ne voyez pas les commits fait dans la branche
 - Retourner à la branche  _"????/test-branche"_
