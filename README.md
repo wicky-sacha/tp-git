@@ -129,7 +129,7 @@ Exemple :
 -
 - [X] cochez et commit : "après bug 1"
 - [X] cochez et commit : "après bug 2"
-- [ ] cochez et commit : "après bug 3"
+- [X] cochez et commit : "après bug 3"
 
 - Dans le terminal répeter la commande :
   - `git checkout head~1`
