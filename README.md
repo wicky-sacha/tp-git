@@ -169,7 +169,7 @@ Vous devez retrouvez votre changement non commité : faire le commit "test stash
 - Faire un commit 'ajout copie du reflog"
 
 Noter ici l'URL de votre fork : 
-https://github.com/?????/tp-git
+https://github.com/wicky-sacha/tp-git
  
 # Archive d'un dépôt
 
